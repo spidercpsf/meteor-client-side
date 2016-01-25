@@ -1,5 +1,5 @@
 {
-  "name": "meteor-client-side",
+  "name": "ows-meteor-client-side",
   "version": "1.0.0",
   "description": "jspm version of meteor-client-side",
   "main": "dist/meteor-client-side.bundle.js",
